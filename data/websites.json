@@ -1,0 +1,590 @@
+[
+    {
+        "icon": "icon-cloud",
+        "sites": [
+            {
+                "thumb": "https://gw.alicdn.com/imgextra/i3/O1CN01aj9rdD1GS0E8io11t_!!6000000000620-73-tps-16-16.ico",
+                "description": "阿里云盘",
+                "id": 306,
+                "title": "阿里云盘",
+                "url": "https://www.aliyundrive.com/drive"
+            },
+            {
+                "thumb": "https://pan.baidu.com/m-static/base/static/images/favicon.ico",
+                "description": "百度网盘",
+                "id": 307,
+                "title": "百度网盘",
+                "url": "https://pan.baidu.com/"
+            }
+        ],
+        "id": 50,
+        "title": "云盘"
+    },
+    {
+        "icon": "icon-email",
+        "sites": [
+            {
+                "thumb": "https://mail.qq.com/favicon.ico",
+                "description": "QQ邮箱",
+                "id": 322,
+                "title": "QQ邮箱",
+                "url": "https://mail.qq.com/"
+            },
+            {
+                "thumb": "https://email.163.com/favicon.ico",
+                "description": "网易邮箱",
+                "id": 323,
+                "title": "网易邮箱",
+                "url": "https://email.163.com/"
+            }
+        ],
+        "id": 55,
+        "title": "邮箱"
+    },
+    {
+        "icon": "icon-map",
+        "sites": [
+            {
+                "thumb": "https://map.baidu.com/favicon.ico",
+                "description": "百度地图",
+                "id": 308,
+                "title": "百度地图",
+                "url": "https://map.baidu.com/"
+            },
+            {
+                "thumb": "https://www.amap.com/favicon.ico",
+                "description": "高德地图",
+                "id": 326,
+                "title": "高德地图",
+                "url": "https://www.amap.com/"
+            },
+            {
+                "thumb": "https://map.qq.com/favicon.ico",
+                "description": "腾讯地图",
+                "id": 327,
+                "title": "腾讯地图",
+                "url": "https://map.qq.com/"
+            }
+        ],
+        "id": 51,
+        "title": "地图"
+    },
+    {
+        "icon": "icon-ticket",
+        "sites": [
+            {
+                "thumb": "https://www.12306.cn/index/images/favicon.ico",
+                "description": "12306",
+                "id": 311,
+                "title": "12306",
+                "url": "https://www.12306.cn/index/"
+            },
+            {
+                "thumb": "https://www.ctrip.com/favicon.ico",
+                "description": "携程旅行",
+                "id": 312,
+                "title": "携程旅行",
+                "url": "https://www.ctrip.com/"
+            },
+            {
+                "thumb": "https://weather.cma.cn/assets/favicon.ico",
+                "description": "天气预报",
+                "id": 352,
+                "title": "天气预报",
+                "url": "https://weather.cma.cn/"
+            }
+        ],
+        "id": 52,
+        "title": "票务-天气"
+    },
+    {
+        "icon": "icon-shopping",
+        "sites": [
+            {
+                "thumb": "https://img.alicdn.com/tps/i3/T1OjaVFl4dXXa.JOZB-114-114.png",
+                "description": "淘宝",
+                "id": 286,
+                "title": "淘宝",
+                "url": "https://www.taobao.com/"
+            },
+            {
+                "thumb": "https://www.jd.com/favicon.ico",
+                "description": "京东",
+                "id": 287,
+                "title": "京东",
+                "url": "https://www.jd.com/"
+            },
+            {
+                "thumb": "https://cdn.kuaidi100.com/images/favicon.gif",
+                "description": "快递100",
+                "id": 288,
+                "title": "快递100",
+                "url": "https://www.kuaidi100.com/"
+            },
+            {
+                "thumb": "https://www.amazon.cn/favicon.ico",
+                "description": "亚马逊",
+                "id": 329,
+                "title": "亚马逊",
+                "url": "https://www.amazon.cn/"
+            },
+            {
+                "thumb": "https://www.smzdm.com/favicon.ico",
+                "description": "什么值得买",
+                "id": 343,
+                "title": "什么值得买",
+                "url": "https://www.smzdm.com/"
+            },
+            {
+                "thumb": "https://www.miaomiaozhe.com/favicon.ico",
+                "description": "喵喵折",
+                "id": 344,
+                "title": "喵喵折",
+                "url": "https://www.miaomiaozhe.com/goods"
+            }
+        ],
+        "id": 45,
+        "title": "购物"
+    },
+    {
+        "icon": "icon-car",
+        "sites": [
+            {
+                "thumb": "https://www.hupu.com/favicon.ico",
+                "description": "虎扑",
+                "id": 297,
+                "title": "虎扑",
+                "url": "https://www.hupu.com/"
+            },
+            {
+                "thumb": "https://www.zol.com.cn/favicon.ico",
+                "description": "中关村",
+                "id": 345,
+                "title": "中关村",
+                "url": "https://www.zol.com.cn/"
+            },
+            {
+                "thumb": "https://www.autohome.com.cn/favicon.ico",
+                "description": "汽车之家",
+                "id": 346,
+                "title": "汽车之家",
+                "url": "https://www.autohome.com.cn/shenzhen/"
+            },
+            {
+                "thumb": "https://i.rtings.com/assets/favicon/current/favicon-16x16-142bbe3886f094e5d63fbded01a123f6cf7001a99b366eb4f416501c8ea5062c.png",
+                "description": "RTINGS",
+                "id": 350,
+                "title": "RTINGS",
+                "url": "https://www.rtings.com"
+            },
+            {
+                "thumb": "https://www.right.com.cn/favicon.ico",
+                "description": "恩山无线论坛",
+                "id": 353,
+                "title": "恩山无线论坛",
+                "url": "https://www.right.com.cn/forum/"
+            }
+        ],
+        "id": 60,
+        "title": "死宅男"
+    },
+    {
+        "icon": "icon-news",
+        "sites": [
+            {
+                "thumb": "https://weibo.com/favicon.ico",
+                "description": "微博",
+                "id": 280,
+                "title": "微博",
+                "url": "https://weibo.com/"
+            },
+            {
+                "thumb": "https://static.zhihu.com/heifetz/favicon.ico",
+                "description": "知乎热榜",
+                "id": 289,
+                "title": "知乎热榜",
+                "url": "https://www.zhihu.com"
+            },
+            {
+                "thumb": "http://fanfou.com/favicon.ico",
+                "description": "饭否",
+                "id": 304,
+                "title": "饭否",
+                "url": "http://fanfou.com/browse"
+            }
+        ],
+        "id": 43,
+        "title": "头条热点"
+    },
+    {
+        "icon": "icon-sport",
+        "sites": [
+            {
+                "thumb": "https://mat1.gtimg.com/sports/kbsweb/favicon.ico",
+                "description": "腾讯体育",
+                "id": 290,
+                "title": "腾讯体育",
+                "url": "https://kbs.sports.qq.com/#hot"
+            },
+            {
+                "thumb": "https://www.miguvideo.com/favicon.ico",
+                "description": "咪咕体育",
+                "id": 291,
+                "title": "咪咕体育",
+                "url": "https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html"
+            },
+            {
+                "thumb": "http://www.jrskan.com/favicon.ico?ver=20190708.3",
+                "description": "JRKAN直播",
+                "id": 292,
+                "title": "JRKAN直播",
+                "url": "http://www.jrskan.com/"
+            },
+            {
+                "thumb": "http://www.mozishuoqiu.com/favicon.ico",
+                "description": "NBA伤停名单",
+                "id": 295,
+                "title": "NBA伤停名单",
+                "url": "http://www.mozishuoqiu.com/index.php/Injury/lst"
+            },
+            {
+                "thumb": "https://tv.cctv.com/favicon.ico",
+                "description": "CCTV5",
+                "id": 296,
+                "title": "CCTV5",
+                "url": "https://tv.cctv.com/live/cctv5/"
+            }
+        ],
+        "id": 46,
+        "title": "体育"
+    },
+    {
+        "icon": "icon-movie",
+        "sites": [
+            {
+                "thumb": "https://www.bilibili.com/favicon.ico",
+                "description": "哔哩哔哩",
+                "id": 279,
+                "title": "哔哩哔哩",
+                "url": "https://www.bilibili.com/"
+            },
+            {
+                "thumb": "https://v.qq.com/favicon.ico",
+                "description": "腾讯视频",
+                "id": 281,
+                "title": "腾讯视频",
+                "url": "https://v.qq.com/"
+            },
+            {
+                "thumb": "https://www.iqiyi.com/favicon.ico",
+                "description": "爱奇艺",
+                "id": 300,
+                "title": "爱奇艺",
+                "url": "https://www.iqiyi.com/"
+            },
+            {
+                "thumb": "https://img.alicdn.com/tfs/TB1nDB8XuL2gK0jSZFmXXc7iXXa-48-48.ico",
+                "description": "优酷",
+                "id": 301,
+                "title": "优酷",
+                "url": "https://www.youku.com/"
+            },
+            {
+                "thumb": "https://www.mgtv.com/favicon.ico",
+                "description": "芒果TV",
+                "id": 354,
+                "title": "芒果TV",
+                "url": "https://www.mgtv.com/"
+            }
+        ],
+        "id": 42,
+        "title": "影视爱优腾"
+    },
+    {
+        "icon": "icon-download1",
+        "sites": [
+            {
+                "thumb": "https://ins.popmars.com/template/default/assets/img/brand/favicon.png",
+                "description": "Instagram下载",
+                "id": 340,
+                "title": "Instagram下载",
+                "url": "https://ins.popmars.com/"
+            },
+            {
+                "thumb": "https://iiilab.nos-eastchina1.126.net/video/favicon.ico",
+                "description": "哔哩哔哩视频解析下载",
+                "id": 341,
+                "title": "哔哩哔哩视频解析下载",
+                "url": "https://bilibili.iiilab.com/"
+            },
+            {
+                "thumb": "https://www.parsevideo.com/assets/addons/parsevideo/img/favicon.ico",
+                "description": "Free online video download",
+                "id": 342,
+                "title": "Free online video download",
+                "url": "https://www.parsevideo.com/"
+            }
+        ],
+        "id": 59,
+        "title": "视频解析下载"
+    },
+    {
+        "icon": "icon-live1",
+        "sites": [
+            {
+                "thumb": "https://www.douyu.com/favicon.ico",
+                "description": "斗鱼直播",
+                "id": 302,
+                "title": "斗鱼直播",
+                "url": "https://www.douyu.com/directory/all"
+            },
+            {
+                "thumb": "https://www.huya.com/favicon.ico",
+                "description": "虎牙直播",
+                "id": 303,
+                "title": "虎牙直播",
+                "url": "https://www.huya.com/l"
+            }
+        ],
+        "id": 48,
+        "title": "直播平台"
+    },
+    {
+        "icon": "icon-movie1",
+        "sites": [
+            {
+                "thumb": "https://movie.douban.com/favicon.ico",
+                "description": "豆瓣电影",
+                "id": 272,
+                "title": "豆瓣电影",
+                "url": "https://movie.douban.com/"
+            },
+            {
+                "thumb": "http://www.pdoro.com/wp-content/uploads/2019/10/19d938570915af-32x32.png",
+                "description": "PRORO影视",
+                "id": 273,
+                "title": "PRORO影视",
+                "url": "http://www.pdoro.com/"
+            },
+            {
+                "thumb": "https://www.yinfans.net/wp-content/themes/Loos2/images/favicon.ico",
+                "description": "音范丝",
+                "id": 274,
+                "title": "音范丝",
+                "url": "https://www.yinfans.net/"
+            },
+            {
+                "thumb": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.51yuansu.com%2Fpic3%2Fcover%2F01%2F69%2F55%2F595f8a72cf2c3_610.jpg&refer=http%3A%2F%2Fpic.51yuansu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1642434146&t=f12367309fab80319ae2e352a928c014",
+                "description": "MINI4K迷客电影",
+                "id": 275,
+                "title": "MINI4K迷客电影",
+                "url": "https://www.mini4k.com/"
+            },
+            {
+                "thumb": "https://torrindex.net/images/tpb.jpg",
+                "description": "海盗湾",
+                "id": 310,
+                "title": "海盗湾",
+                "url": "https://thepiratebay.org/index.html"
+            },
+            {
+                "thumb": "https://btbtt18.com/favicon.ico",
+                "description": "BT之家",
+                "id": 328,
+                "title": "BT之家",
+                "url": "https://btbtt18.com/"
+            },
+            {
+                "thumb": "https://www.hao4k.cn/favicon.ico",
+                "description": "Hao4K",
+                "id": 338,
+                "title": "Hao4K",
+                "url": "https://www.hao4k.cn/"
+            },
+            {
+                "thumb": "https://cdn.bugutv.cn/wp-content/uploads/2021/09/favicon.jpg",
+                "description": "布谷TV",
+                "id": 339,
+                "title": "布谷TV",
+                "url": "https://www.bugutv.cn/"
+            }
+        ],
+        "id": 41,
+        "title": "电影"
+    },
+    {
+        "icon": "icon-subtitles",
+        "sites": [
+            {
+                "thumb": "http://zmk.pw/images/v2/favicon.png",
+                "description": "字幕库",
+                "id": 276,
+                "title": "字幕库",
+                "url": "http://zmk.pw/"
+            },
+            {
+                "thumb": "http://amm.xunleiyitian.com/favicon.ico",
+                "description": "迅雷会员",
+                "id": 278,
+                "title": "迅雷会员",
+                "url": "http://amm.xunleiyitian.com/q_3652d46242a32"
+            },
+            {
+                "thumb": "https://img.subhd.la/favicon-32x32.png",
+                "description": "SubHD字幕下载",
+                "id": 333,
+                "title": "SubHD",
+                "url": "https://subhd.tv/"
+            }
+        ],
+        "id": 58,
+        "title": "字幕"
+    },
+    {
+        "icon": "icon-musicfill",
+        "sites": [
+            {
+                "thumb": "https://open.spotify.com/favicon.ico",
+                "description": "Spotify",
+                "id": 320,
+                "title": "Spotify",
+                "url": "https://open.spotify.com/"
+            },
+            {
+                "thumb": "https://flac.life/favicon.png",
+                "description": "无损生活",
+                "id": 324,
+                "title": "无损生活",
+                "url": "https://flac.life"
+            },
+            {
+                "thumb": "https://y.qq.com/favicon.ico",
+                "description": "QQ音乐",
+                "id": 347,
+                "title": "QQ音乐",
+                "url": "https://y.qq.com/"
+            }
+        ],
+        "id": 54,
+        "title": "音乐"
+    },
+    {
+        "icon": "icon-youtube",
+        "sites": [
+            {
+                "thumb": "https://www.youtube.com/s/desktop/310f846f/img/favicon_32x32.png",
+                "description": "YouTube",
+                "id": 282,
+                "title": "YouTube",
+                "url": "https://www.youtube.com/"
+            },
+            {
+                "thumb": "https://abs.twimg.com/favicons/twitter.2.ico",
+                "description": "Twitter",
+                "id": 283,
+                "title": "Twitter",
+                "url": "https://twitter.com/"
+            },
+            {
+                "thumb": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico",
+                "description": "Facebook",
+                "id": 284,
+                "title": "Facebook",
+                "url": "https://www.facebook.com/"
+            },
+            {
+                "thumb": "https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico",
+                "description": "Instagram",
+                "id": 285,
+                "title": "Instagram",
+                "url": "https://www.instagram.com/"
+            },
+            {
+                "thumb": "https://web.telegram.org/favicon.ico",
+                "description": "Telegram",
+                "id": 319,
+                "title": "Telegram",
+                "url": "https://web.telegram.org/"
+            }
+        ],
+        "id": 44,
+        "title": "国外社交"
+    },
+    {
+        "icon": "icon-kindle",
+        "sites": [
+            {
+                "thumb": "https://1lib.education/favicon.ico?v=1",
+                "description": "Z-Library",
+                "id": 334,
+                "title": "Z-Library",
+                "url": "https://1lib.education/"
+            },
+            {
+                "thumb": "https://www.pipibook.com/favicon.ico",
+                "description": "皮皮书屋",
+                "id": 335,
+                "title": "皮皮书屋",
+                "url": "https://www.pipibook.com/"
+            },
+            {
+                "thumb": "https://www.jiumodiary.com/images/apple/apple-57.png",
+                "description": "静然书屋",
+                "id": 336,
+                "title": "静然书屋",
+                "url": "https://books.andrewjr.workers.dev/0:/"
+            },
+            {
+                "thumb": "https://www.jiumodiary.com/images/apple/apple-57.png",
+                "description": "鸠摩搜索",
+                "id": 337,
+                "title": "鸠摩搜索",
+                "url": "https://www.jiumodiary.com/"
+            },
+            {
+                "thumb": "https://www.kongfz.com/favicon.ico",
+                "description": "孔夫子旧书网",
+                "id": 348,
+                "title": "孔夫子旧书网",
+                "url": "https://www.kongfz.com/"
+            },
+            {
+                "thumb": "http://book.dangdang.com/favicon.ico",
+                "description": "当当网图书",
+                "id": 349,
+                "title": "当当网图书",
+                "url": "http://book.dangdang.com/"
+            }
+        ],
+        "id": 57,
+        "title": "kindle"
+    },
+    {
+        "icon": "icon-download",
+        "sites": [
+            {
+                "thumb": "https://www.rjsos.com/favicon.ico",
+                "description": "破解软件下载",
+                "id": 330,
+                "title": "破解软件下载",
+                "url": "https://www.rjsos.com/win"
+            },
+            {
+                "thumb": "https://axutongxue.com/favicon.ico",
+                "description": "阿虚同学",
+                "id": 331,
+                "title": "阿虚同学",
+                "url": "https://axutongxue.com/"
+            },
+            {
+                "thumb": "https://www.52pojie.cn/favicon.ico",
+                "description": "吾爱破解",
+                "id": 332,
+                "title": "吾爱破解",
+                "url": "https://www.52pojie.cn/"
+            }
+        ],
+        "id": 56,
+        "title": "软件下载"
+    }
+]
