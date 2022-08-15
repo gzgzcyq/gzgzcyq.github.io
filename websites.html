@@ -19,7 +19,7 @@
     <link rel='stylesheet' id='bootstrap-css' href='css/bootstrap.min-3.03029.1.css' type='text/css' media='all'>
     <link rel='stylesheet' id='lightbox-css' href='css/jquery.fancybox.min-3.03029.1.css' type='text/css' media='all'>
     <link rel='stylesheet' id='style-css' href='css/style-3.03029.1.css' type='text/css' media='all'>
-    <link rel='stylesheet' id='iconfontd-css' href='//at.alicdn.com/t/c/font_3567716_qkvdgsqh578.css' type='text/css'
+    <link rel='stylesheet' id='iconfontd-css' href='https://at.alicdn.com/t/c/font_3567716_qkvdgsqh578.css' type='text/css'
         media='all'>
 
     <script type='text/javascript' src='js/jquery.min-3.03029.1.js' id='jquery-js'></script>
@@ -30,29 +30,8 @@
             right: 44px !important
         }
 
-        .io.icon-fw,
-        .iconfont.icon-fw {
-            width: 1.15em;
-        }
-
-        .io.icon-lg,
-        .iconfont.icon-lg {
-            font-size: 1.5em;
-            line-height: .75em;
-            vertical-align: -.125em;
-        }
-
         .screenshot-carousel .img_wrapper a {
             display: contents
-        }
-
-        .fancybox-slide--iframe .fancybox-content {
-            max-width: 1280px;
-            margin: 0
-        }
-
-        .fancybox-slide--iframe.fancybox-slide {
-            padding: 44px 0
         }
 
         .navbar-nav .menu-item-286 a {
@@ -96,7 +75,7 @@
             request.send(null);
 
             request.onload = function () {
-                if (request.status == 200) {
+                if (request.status === 200) {
                     var datas = JSON.parse(request.responseText);
 
                     var sidebarStr = "";
@@ -131,12 +110,12 @@
                     document.getElementById("sidebar-items").innerHTML = sidebarStr;
                     document.getElementById("content").innerHTML = rowStr;
 
-                    for (var j = 0; j < datas.length; j++) {
-                        var data = datas[j];
+                    for (var k = 0; k < datas.length; k++) {
+                        var ele = datas[k];
 
                         var htmlStr = "";
-                        for (var i = 0; i < data.sites.length; i++) {
-                            var site = data.sites[i];
+                        for (var i = 0; i < ele.sites.length; i++) {
+                            var site = ele.sites[i];
 
                             htmlStr += "<div class='url-card col-6 col-sm-6 col-md-4 col-xl-5a col-xxl-6a'>";
                             htmlStr += "<div class='url-body default'>";
@@ -187,7 +166,7 @@
                         }
 
                         // 将拼接的字符串放进tbody里
-                        document.getElementById(data.icon).innerHTML = htmlStr;
+                        document.getElementById(ele.icon).innerHTML = htmlStr;
                     }
                 }
             }
@@ -239,7 +218,6 @@
                                             <path class="line--3" d="M0 60h62c18 0 18 20-17-5L31 45"></path>
                                         </svg>
                                     </label>
-
                                 </div>
 
                                 <div class="rounded-circle weather">
