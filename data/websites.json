@@ -416,25 +416,18 @@
         "icon": "icon-subtitles",
         "sites": [
             {
-                "thumb": "http://zmk.pw/images/v2/favicon.png",
-                "description": "字幕库",
-                "id": 276,
-                "title": "字幕库",
-                "url": "http://zmk.pw/"
-            },
-            {
-                "thumb": "http://amm.xunleiyitian.com/favicon.ico",
-                "description": "迅雷会员",
-                "id": 278,
-                "title": "迅雷会员",
-                "url": "http://amm.xunleiyitian.com/q_3652d46242a32"
-            },
-            {
                 "thumb": "https://img.subhd.la/favicon-32x32.png",
                 "description": "SubHD字幕下载",
                 "id": 333,
                 "title": "SubHD",
                 "url": "https://subhd.tv/"
+            },
+            {
+                "thumb": "http://zmk.pw/images/v2/favicon.png",
+                "description": "字幕库",
+                "id": 276,
+                "title": "字幕库",
+                "url": "http://zmk.pw/"
             }
         ],
         "id": 58,
