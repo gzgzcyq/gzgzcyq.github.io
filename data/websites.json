@@ -189,34 +189,6 @@
         "title": "死宅男"
     },
     {
-        "icon": "icon-news",
-        "sites": [
-            {
-                "thumb": "https://weibo.com/favicon.ico",
-                "description": "微博",
-                "id": 280,
-                "title": "微博",
-                "url": "https://weibo.com/"
-            },
-            {
-                "thumb": "https://static.zhihu.com/heifetz/favicon.ico",
-                "description": "知乎热榜",
-                "id": 289,
-                "title": "知乎热榜",
-                "url": "https://www.zhihu.com"
-            },
-            {
-                "thumb": "http://fanfou.com/favicon.ico",
-                "description": "饭否",
-                "id": 304,
-                "title": "饭否",
-                "url": "http://fanfou.com/browse"
-            }
-        ],
-        "id": 43,
-        "title": "头条热点"
-    },
-    {
         "icon": "icon-sport",
         "sites": [
             {
@@ -257,48 +229,6 @@
         ],
         "id": 46,
         "title": "体育"
-    },
-    {
-        "icon": "icon-movie",
-        "sites": [
-            {
-                "thumb": "https://www.bilibili.com/favicon.ico",
-                "description": "哔哩哔哩",
-                "id": 279,
-                "title": "哔哩哔哩",
-                "url": "https://www.bilibili.com/"
-            },
-            {
-                "thumb": "https://v.qq.com/favicon.ico",
-                "description": "腾讯视频",
-                "id": 281,
-                "title": "腾讯视频",
-                "url": "https://v.qq.com/"
-            },
-            {
-                "thumb": "https://www.iqiyi.com/favicon.ico",
-                "description": "爱奇艺",
-                "id": 300,
-                "title": "爱奇艺",
-                "url": "https://www.iqiyi.com/"
-            },
-            {
-                "thumb": "https://img.alicdn.com/tfs/TB1nDB8XuL2gK0jSZFmXXc7iXXa-48-48.ico",
-                "description": "优酷",
-                "id": 301,
-                "title": "优酷",
-                "url": "https://www.youku.com/"
-            },
-            {
-                "thumb": "https://www.mgtv.com/favicon.ico",
-                "description": "芒果TV",
-                "id": 354,
-                "title": "芒果TV",
-                "url": "https://www.mgtv.com/"
-            }
-        ],
-        "id": 42,
-        "title": "影视爱优腾"
     },
     {
         "icon": "icon-download1",
@@ -491,6 +421,13 @@
                 "id": 319,
                 "title": "Telegram",
                 "url": "https://web.telegram.org/"
+            },
+            {
+                "thumb": "http://fanfou.com/favicon.ico",
+                "description": "饭否",
+                "id": 304,
+                "title": "饭否",
+                "url": "http://fanfou.com/browse"
             }
         ],
         "id": 44,
