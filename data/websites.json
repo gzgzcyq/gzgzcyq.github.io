@@ -164,11 +164,18 @@
                 "url": "https://www.zol.com.cn/"
             },
             {
+                "thumb": "https://www.dongchedi.com/favicon.ico",
+                "description": "懂车帝",
+                "id": 400,
+                "title": "懂车帝",
+                "url": "https://www.dongchedi.com"
+            },
+            {
                 "thumb": "https://www.autohome.com.cn/favicon.ico",
                 "description": "汽车之家",
                 "id": 346,
                 "title": "汽车之家",
-                "url": "https://www.autohome.com.cn/shenzhen/"
+                "url": "https://www.autohome.com.cn"
             },
             {
                 "thumb": "https://i.rtings.com/assets/favicon/current/favicon-16x16-142bbe3886f094e5d63fbded01a123f6cf7001a99b366eb4f416501c8ea5062c.png",
