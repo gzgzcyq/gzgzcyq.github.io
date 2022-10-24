@@ -150,13 +150,6 @@
         "icon": "icon-car",
         "sites": [
             {
-                "thumb": "https://www.hupu.com/favicon.ico",
-                "description": "虎扑",
-                "id": 297,
-                "title": "虎扑",
-                "url": "https://www.hupu.com/"
-            },
-            {
                 "thumb": "https://www.zol.com.cn/favicon.ico",
                 "description": "中关村",
                 "id": 345,
@@ -227,6 +220,13 @@
                 "url": "http://www.mozishuoqiu.com/index.php/Injury/lst"
             },
             {
+                "thumb": "https://www.hupu.com/favicon.ico",
+                "description": "虎扑",
+                "id": 297,
+                "title": "虎扑",
+                "url": "https://www.hupu.com/"
+            },
+            {
                 "thumb": "https://tv.cctv.com/favicon.ico",
                 "description": "CCTV5",
                 "id": 296,
@@ -266,7 +266,7 @@
         "title": "视频解析下载"
     },
     {
-        "icon": "icon-live1",
+        "icon": "icon-live",
         "sites": [
             {
                 "thumb": "https://www.douyu.com/favicon.ico",
