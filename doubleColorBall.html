@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        p {
+            width: 60px;
+            height: 60px;
+            background-color: brown;
+            text-align: center;
+            line-height: 60px;
+            border-radius: 50%;
+            color: #fff;
+            float: left;
+            margin: 0 30px;
+        }
+
+        .last {
+            background-color: blue;
+        }
+    </style>
+</head>
+
+<body>
+<script>
+    // 在a~b范围内生成随机数的方法
+    function random(a, b) {
+        return Math.floor((Math.random() * (b - a + 1) + a));
+    }
+
+    // 在min~max指定范围内,生成n位长度的数组随机数
+    function randomNums(n, min, max) {
+        let arr = [];
+        for (let i = 0; i < n; i++) {
+            let ran = Math.ceil(Math.random() * (max - min) + min);
+            while (isExist(arr, ran)) {
+                ran = Math.ceil(Math.random() * (max - min) + min);
+            }
+            arr[i] = ran;
+        }
+        return arr;
+    }
+
+    // 判断数组中是否存在
+    function isExist(arr, ran) {
+        for (let i = 0; i < arr.length; i++) {
+            if (arr[i] === ran) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    // 数组排序
+    function compare(val1, val2) {
+        return val1 - val2;
+    }
+
+    // 双色球 6个红球(一组选择中数字不重复) 1~33 1个篮球 1~16
+    for (let i = 0; i < 5; i++) {
+        let nums = randomNums(6, 1, 33);
+        // 排序
+        nums.sort(compare);
+        for (let i = 0; i < 6; i++) {
+            let num = nums[i];
+            document.write("<p>" + num + "</p>");
+        }
+        let blue = random(1, 16);
+        document.write("<p class='last'>" + blue + "</p>");
+        document.write("<br><br><br>");
+    }
+
+</script>
+</body>
+
+</html>

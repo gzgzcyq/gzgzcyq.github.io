@@ -253,10 +253,59 @@
         "id": 342,
         "title": "Free online video download",
         "url": "https://www.parsevideo.com/"
+      },
+      {
+        "thumb": "https://dlpanda.com/favicon.ico",
+        "description": "抖音下载 不用去除文字",
+        "id": 342,
+        "title": "抖音下载",
+        "url": "https://dlpanda.com/zh-CN"
       }
     ],
     "id": 59,
     "title": "视频解析下载"
+  },
+  {
+    "icon": "icon-movie",
+    "sites": [
+      {
+        "thumb": "https://www.bilibili.com/favicon.ico",
+        "description": "哔哩哔哩",
+        "id": 279,
+        "title": "哔哩哔哩",
+        "url": "https://www.bilibili.com/"
+      },
+      {
+        "thumb": "https://v.qq.com/favicon.ico",
+        "description": "腾讯视频",
+        "id": 281,
+        "title": "腾讯视频",
+        "url": "https://v.qq.com/"
+      },
+      {
+        "thumb": "https://www.iqiyi.com/favicon.ico",
+        "description": "爱奇艺",
+        "id": 300,
+        "title": "爱奇艺",
+        "url": "https://www.iqiyi.com/"
+      },
+      {
+        "thumb": "https://img.alicdn.com/tfs/TB1nDB8XuL2gK0jSZFmXXc7iXXa-48-48.ico",
+        "description": "优酷",
+        "id": 301,
+        "title": "优酷",
+        "url": "https://www.youku.com/"
+      },
+      {
+        "thumb": "https://www.mgtv.com/favicon.ico",
+        "description": "芒果TV",
+        "id": 354,
+        "title": "芒果TV",
+        "url": "https://www.mgtv.com/"
+      }
+    ],
+    "id": 60,
+    "title": "影视爱优腾"
   },
   {
     "icon": "icon-live",
@@ -392,6 +441,34 @@
     "title": "音乐"
   },
   {
+    "icon": "icon-news",
+    "sites": [
+      {
+        "thumb": "https://weibo.com/favicon.ico",
+        "description": "微博",
+        "id": 280,
+        "title": "微博",
+        "url": "https://weibo.com/"
+      },
+      {
+        "thumb": "https://static.zhihu.com/heifetz/favicon.ico",
+        "description": "知乎热榜",
+        "id": 289,
+        "title": "知乎热榜",
+        "url": "https://www.zhihu.com"
+      },
+      {
+        "thumb": "http://fanfou.com/favicon.ico",
+        "description": "饭否",
+        "id": 304,
+        "title": "饭否",
+        "url": "http://fanfou.com/browse"
+      }
+    ],
+    "id": 43,
+    "title": "头条热点"
+  },
+  {
     "icon": "icon-youtube",
     "sites": [
       {
@@ -421,13 +498,6 @@
         "id": 319,
         "title": "Telegram",
         "url": "https://web.telegram.org/"
-      },
-      {
-        "thumb": "http://fanfou.com/favicon.ico",
-        "description": "饭否",
-        "id": 304,
-        "title": "饭否",
-        "url": "http://fanfou.com/browse"
       }
     ],
     "id": 44,
@@ -436,6 +506,13 @@
   {
     "icon": "icon-kindle",
     "sites": [
+      {
+        "thumb": "https://zh.singlelogin.me/favicon.ico",
+        "description": "Z-Library",
+        "id": 334,
+        "title": "Z-Library",
+        "url": "https://zh.singlelogin.me/"
+      },
       {
         "thumb": "https://www.pipibook.com/favicon.ico",
         "description": "皮皮书屋",
@@ -473,7 +550,7 @@
       }
     ],
     "id": 57,
-    "title": "kindle"
+    "title": "书籍-kindle"
   },
   {
     "icon": "icon-download",
