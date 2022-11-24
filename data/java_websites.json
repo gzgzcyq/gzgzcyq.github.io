@@ -36,6 +36,13 @@
                 "id": 358,
                 "title": "简书",
                 "url": "https://www.jianshu.com/"
+            },
+            {
+                "thumb": "https://www.jb51.net/favicon.ico",
+                "description": "脚本之家",
+                "id": 358,
+                "title": "脚本之家 Java书籍下载",
+                "url": "https://www.jb51.net/"
             }
         ],
         "id": 62,
