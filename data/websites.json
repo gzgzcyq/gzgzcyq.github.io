@@ -269,6 +269,12 @@
     "icon": "icon-movie",
     "sites": [
       {
+        "thumb": "https://www.acfun.cn/favicon.ico",
+        "description": "AcFun",
+        "id": 279,
+        "title": "AcFun 画质比B站好",
+        "url": "https://www.acfun.cn/"
+      },{
         "thumb": "https://www.bilibili.com/favicon.ico",
         "description": "哔哩哔哩",
         "id": 279,
