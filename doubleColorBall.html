@@ -3,73 +3,54 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
-    <style>
-        p {
-            width: 60px;
-            height: 60px;
-            background-color: brown;
-            text-align: center;
-            line-height: 60px;
-            border-radius: 50%;
-            color: #fff;
-            float: left;
-            margin: 0 30px;
-        }
-
-        .last {
-            background-color: blue;
-        }
-    </style>
+    <title>doubleColorBall</title>
 </head>
 
 <body>
 <script>
     // 在a~b范围内生成随机数的方法
-    function random(a, b) {
-        return Math.floor((Math.random() * (b - a + 1) + a));
+    function random(min, max) {
+        return Math.floor((Math.random() * (max - min + 1) + min));
     }
 
     // 在min~max指定范围内,生成n位长度的数组随机数
     function randomNums(n, min, max) {
-        let arr = [];
+        const arr = [];
         for (let i = 0; i < n; i++) {
-            let ran = Math.ceil(Math.random() * (max - min) + min);
-            while (isExist(arr, ran)) {
-                ran = Math.ceil(Math.random() * (max - min) + min);
+            let ran = Math.floor((Math.random() * (max - min + 1) + min));
+            // 判断数组中是否存在,数组includes方法
+            while (arr.includes(ran)) {
+                ran = Math.floor((Math.random() * (max - min + 1) + min));
             }
             arr[i] = ran;
         }
         return arr;
     }
 
-    // 判断数组中是否存在
-    function isExist(arr, ran) {
-        for (let i = 0; i < arr.length; i++) {
-            if (arr[i] === ran) {
-                return true;
-            }
-        }
-        return false;
-    }
-
-    // 数组排序
-    function compare(val1, val2) {
-        return val1 - val2;
-    }
-
+    // 一共生成5组号
     // 双色球 6个红球(一组选择中数字不重复) 1~33 1个篮球 1~16
     for (let i = 0; i < 5; i++) {
         let nums = randomNums(6, 1, 33);
-        // 排序
-        nums.sort(compare);
+        // 排序,需要自己实现排序(类似于java的lambda的形式)
+        nums.sort((a, b) => {
+            return a - b
+        })
+
         for (let i = 0; i < 6; i++) {
             let num = nums[i];
-            document.write("<p>" + num + "</p>");
+            if (num < 10) {
+                num = '0' + num;
+            }
+            document.write(num);
+            if (i < 5) {
+                document.write(' ');
+            }
         }
         let blue = random(1, 16);
-        document.write("<p class='last'>" + blue + "</p>");
-        document.write("<br><br><br>");
+        if (blue < 10) {
+            blue = '0' + blue;
+        }
+        document.write('+' + blue + '<br>');
     }
 
 </script>
