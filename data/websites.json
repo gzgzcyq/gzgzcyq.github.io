@@ -24,6 +24,20 @@
     "icon": "icon-email",
     "sites": [
       {
+        "thumb": "https://email.163.com/favicon.ico",
+        "description": "网易邮箱",
+        "id": 323,
+        "title": "网易邮箱",
+        "url": "https://email.163.com/"
+      },
+      {
+        "thumb": "https://res.cdn.office.net/owamail/20221111004.15/resources/images/favicons/mail-seen.ico",
+        "description": "Outlook",
+        "id": 322,
+        "title": "Outlook",
+        "url": "https://outlook.live.com/mail/0"
+      },
+      {
         "thumb": "https://mail.qq.com/favicon.ico",
         "description": "QQ邮箱",
         "id": 322,
@@ -31,11 +45,11 @@
         "url": "https://mail.qq.com/"
       },
       {
-        "thumb": "https://email.163.com/favicon.ico",
-        "description": "网易邮箱",
-        "id": 323,
-        "title": "网易邮箱",
-        "url": "https://email.163.com/"
+        "thumb": "https://docs.gtimg.com/desktop/favicon2.ico",
+        "description": "腾讯文档",
+        "id": 322,
+        "title": "腾讯文档",
+        "url": "https://docs.qq.com/desktop"
       }
     ],
     "id": 55,
@@ -220,6 +234,13 @@
         "url": "http://www.mozishuoqiu.com/index.php/Injury/lst"
       },
       {
+        "thumb": "https://www.luxiangwu.com/favicon.ico",
+        "description": "录像吧",
+        "id": 295,
+        "title": "录像吧",
+        "url": "https://www.luxiangwu.com/"
+      },
+      {
         "thumb": "https://tv.cctv.com/favicon.ico",
         "description": "CCTV5",
         "id": 296,
@@ -274,7 +295,8 @@
         "id": 279,
         "title": "AcFun 画质比B站好",
         "url": "https://www.acfun.cn/"
-      },{
+      },
+      {
         "thumb": "https://www.bilibili.com/favicon.ico",
         "description": "哔哩哔哩",
         "id": 279,
