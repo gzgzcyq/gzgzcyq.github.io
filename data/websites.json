@@ -164,13 +164,6 @@
     "icon": "icon-car",
     "sites": [
       {
-        "thumb": "https://www.zol.com.cn/favicon.ico",
-        "description": "中关村",
-        "id": 345,
-        "title": "中关村",
-        "url": "https://www.zol.com.cn/"
-      },
-      {
         "thumb": "https://www.dongchedi.com/favicon.ico",
         "description": "懂车帝",
         "id": 400,
@@ -197,10 +190,59 @@
         "id": 353,
         "title": "恩山无线论坛",
         "url": "https://www.right.com.cn/forum/"
+      },
+      {
+        "thumb": "https://www.zol.com.cn/favicon.ico",
+        "description": "中关村",
+        "id": 345,
+        "title": "中关村",
+        "url": "https://www.zol.com.cn/"
+      },
+      {
+        "thumb": "https://www.ithome.com/favicon.ico",
+        "description": "IT之家",
+        "id": 353,
+        "title": "IT之家",
+        "url": "https://www.ithome.com/blog/"
       }
     ],
     "id": 60,
     "title": "死宅男"
+  },
+  {
+    "icon": "icon-download",
+    "sites": [
+      {
+        "thumb": "https://www.52pojie.cn/favicon.ico",
+        "description": "吾爱破解",
+        "id": 332,
+        "title": "吾爱破解",
+        "url": "https://www.52pojie.cn/"
+      },
+      {
+        "thumb": "https://axutongxue.com/favicon.ico",
+        "description": "阿虚同学",
+        "id": 331,
+        "title": "阿虚同学",
+        "url": "https://axutongxue.com/"
+      },
+      {
+        "thumb": "https://www.rjsos.com/favicon.ico",
+        "description": "破解软件下载",
+        "id": 330,
+        "title": "破解软件下载",
+        "url": "https://www.rjsos.com/win"
+      },
+      {
+        "thumb": "https://www.ghxi.com/favicon.ico",
+        "description": "果壳播客",
+        "id": 331,
+        "title": "果壳播客",
+        "url": "https://www.ghxi.com/"
+      }
+    ],
+    "id": 56,
+    "title": "软件下载"
   },
   {
     "icon": "icon-sport",
@@ -250,41 +292,6 @@
     ],
     "id": 46,
     "title": "体育"
-  },
-  {
-    "icon": "icon-download1",
-    "sites": [
-      {
-        "thumb": "https://ins.popmars.com/template/default/assets/img/brand/favicon.png",
-        "description": "Instagram下载",
-        "id": 340,
-        "title": "Instagram下载",
-        "url": "https://ins.popmars.com/"
-      },
-      {
-        "thumb": "https://iiilab.nos-eastchina1.126.net/video/favicon.ico",
-        "description": "哔哩哔哩视频解析下载",
-        "id": 341,
-        "title": "哔哩哔哩视频解析下载",
-        "url": "https://bilibili.iiilab.com/"
-      },
-      {
-        "thumb": "https://www.parsevideo.com/assets/addons/parsevideo/img/favicon.ico",
-        "description": "Free online video download",
-        "id": 342,
-        "title": "Free online video download",
-        "url": "https://www.parsevideo.com/"
-      },
-      {
-        "thumb": "https://dlpanda.com/favicon.ico",
-        "description": "抖音下载 不用去除文字",
-        "id": 342,
-        "title": "抖音下载",
-        "url": "https://dlpanda.com/zh-CN"
-      }
-    ],
-    "id": 59,
-    "title": "视频解析下载"
   },
   {
     "icon": "icon-movie",
@@ -451,13 +458,6 @@
         "url": "https://open.spotify.com/"
       },
       {
-        "thumb": "https://flac.life/favicon.png",
-        "description": "无损生活",
-        "id": 324,
-        "title": "无损生活",
-        "url": "https://flac.life"
-      },
-      {
         "thumb": "https://y.qq.com/favicon.ico",
         "description": "QQ音乐",
         "id": 347,
@@ -530,82 +530,5 @@
     ],
     "id": 44,
     "title": "国外社交"
-  },
-  {
-    "icon": "icon-kindle",
-    "sites": [
-      {
-        "thumb": "https://zh.singlelogin.me/favicon.ico",
-        "description": "Z-Library",
-        "id": 334,
-        "title": "Z-Library",
-        "url": "https://zh.singlelogin.me/"
-      },
-      {
-        "thumb": "https://www.pipibook.com/favicon.ico",
-        "description": "皮皮书屋",
-        "id": 335,
-        "title": "皮皮书屋",
-        "url": "https://www.pipibook.com/"
-      },
-      {
-        "thumb": "https://www.jiumodiary.com/images/apple/apple-57.png",
-        "description": "静然书屋",
-        "id": 336,
-        "title": "静然书屋",
-        "url": "https://books.andrewjr.workers.dev/0:/"
-      },
-      {
-        "thumb": "https://www.jiumodiary.com/images/apple/apple-57.png",
-        "description": "鸠摩搜索",
-        "id": 337,
-        "title": "鸠摩搜索",
-        "url": "https://www.jiumodiary.com/"
-      },
-      {
-        "thumb": "https://www.kongfz.com/favicon.ico",
-        "description": "孔夫子旧书网",
-        "id": 348,
-        "title": "孔夫子旧书网",
-        "url": "https://www.kongfz.com/"
-      },
-      {
-        "thumb": "http://book.dangdang.com/favicon.ico",
-        "description": "当当网图书",
-        "id": 349,
-        "title": "当当网图书",
-        "url": "http://book.dangdang.com/"
-      }
-    ],
-    "id": 57,
-    "title": "书籍-kindle"
-  },
-  {
-    "icon": "icon-download",
-    "sites": [
-      {
-        "thumb": "https://www.rjsos.com/favicon.ico",
-        "description": "破解软件下载",
-        "id": 330,
-        "title": "破解软件下载",
-        "url": "https://www.rjsos.com/win"
-      },
-      {
-        "thumb": "https://axutongxue.com/favicon.ico",
-        "description": "阿虚同学",
-        "id": 331,
-        "title": "阿虚同学",
-        "url": "https://axutongxue.com/"
-      },
-      {
-        "thumb": "https://www.52pojie.cn/favicon.ico",
-        "description": "吾爱破解",
-        "id": 332,
-        "title": "吾爱破解",
-        "url": "https://www.52pojie.cn/"
-      }
-    ],
-    "id": 56,
-    "title": "软件下载"
   }
 ]
