@@ -8,6 +8,13 @@
                 "id": 359,
                 "title": "网易邮箱",
                 "url": "https://email.163.com/"
+            },
+            {
+                "thumb": "https://res.cdn.office.net/owamail/20221111004.15/resources/images/favicons/mail-seen.ico",
+                "description": "Outlook",
+                "id": 322,
+                "title": "Outlook",
+                "url": "https://outlook.live.com/mail/0"
             }
         ],
         "id": 63,
