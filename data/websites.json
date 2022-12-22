@@ -24,20 +24,6 @@
     "icon": "icon-email",
     "sites": [
       {
-        "thumb": "https://email.163.com/favicon.ico",
-        "description": "网易邮箱",
-        "id": 323,
-        "title": "网易邮箱",
-        "url": "https://email.163.com/"
-      },
-      {
-        "thumb": "https://res.cdn.office.net/owamail/20221111004.15/resources/images/favicons/mail-seen.ico",
-        "description": "Outlook",
-        "id": 322,
-        "title": "Outlook",
-        "url": "https://outlook.live.com/mail/0"
-      },
-      {
         "thumb": "https://mail.qq.com/favicon.ico",
         "description": "QQ邮箱",
         "id": 322,
@@ -416,11 +402,11 @@
         "url": "https://www.hao4k.cn/"
       },
       {
-        "thumb": "https://cdn.bugutv.cn/wp-content/uploads/2021/09/favicon.jpg",
+        "thumb": "https://www.bugutv.net/wp-content/uploads/2021/09/favicon.jpg",
         "description": "布谷TV",
         "id": 339,
         "title": "布谷TV",
-        "url": "https://www.bugutv.cn/"
+        "url": "https://www.bugutv.net/"
       }
     ],
     "id": 41,
@@ -526,6 +512,13 @@
         "id": 319,
         "title": "Telegram",
         "url": "https://web.telegram.org/"
+      },
+      {
+        "thumb": "https://res.cdn.office.net/owamail/20221111004.15/resources/images/favicons/mail-seen.ico",
+        "description": "Outlook",
+        "id": 322,
+        "title": "Outlook",
+        "url": "https://outlook.live.com/mail/0"
       }
     ],
     "id": 44,
