@@ -57,13 +57,6 @@
         "id": 326,
         "title": "高德地图",
         "url": "https://www.amap.com/"
-      },
-      {
-        "thumb": "https://map.qq.com/favicon.ico",
-        "description": "腾讯地图",
-        "id": 327,
-        "title": "腾讯地图",
-        "url": "https://map.qq.com/"
       }
     ],
     "id": 51,
@@ -196,90 +189,6 @@
     "title": "死宅男"
   },
   {
-    "icon": "icon-download",
-    "sites": [
-      {
-        "thumb": "https://www.52pojie.cn/favicon.ico",
-        "description": "吾爱破解",
-        "id": 332,
-        "title": "吾爱破解",
-        "url": "https://www.52pojie.cn/"
-      },
-      {
-        "thumb": "https://axutongxue.com/favicon.ico",
-        "description": "阿虚同学",
-        "id": 331,
-        "title": "阿虚同学",
-        "url": "https://axutongxue.com/"
-      },
-      {
-        "thumb": "https://www.rjsos.com/favicon.ico",
-        "description": "破解软件下载",
-        "id": 330,
-        "title": "破解软件下载",
-        "url": "https://www.rjsos.com/win"
-      },
-      {
-        "thumb": "https://www.ghxi.com/favicon.ico",
-        "description": "果壳播客",
-        "id": 331,
-        "title": "果壳播客",
-        "url": "https://www.ghxi.com/"
-      }
-    ],
-    "id": 56,
-    "title": "软件下载"
-  },
-  {
-    "icon": "icon-sport",
-    "sites": [
-      {
-        "thumb": "https://mat1.gtimg.com/sports/kbsweb/favicon.ico",
-        "description": "腾讯体育",
-        "id": 290,
-        "title": "腾讯体育",
-        "url": "https://kbs.sports.qq.com/#hot"
-      },
-      {
-        "thumb": "https://www.miguvideo.com/favicon.ico",
-        "description": "咪咕体育",
-        "id": 291,
-        "title": "咪咕体育",
-        "url": "https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html"
-      },
-      {
-        "thumb": "http://www.jrskan.com/favicon.ico?ver=20190708.3",
-        "description": "JRKAN直播",
-        "id": 292,
-        "title": "JRKAN直播",
-        "url": "http://www.jrskan.com/"
-      },
-      {
-        "thumb": "http://www.mozishuoqiu.com/favicon.ico",
-        "description": "NBA伤停名单",
-        "id": 295,
-        "title": "NBA伤停名单",
-        "url": "http://www.mozishuoqiu.com/index.php/Injury/lst"
-      },
-      {
-        "thumb": "https://www.luxiangwu.com/favicon.ico",
-        "description": "录像吧",
-        "id": 295,
-        "title": "录像吧",
-        "url": "https://www.luxiangwu.com/"
-      },
-      {
-        "thumb": "https://tv.cctv.com/favicon.ico",
-        "description": "CCTV5",
-        "id": 296,
-        "title": "CCTV5",
-        "url": "https://tv.cctv.com/live/cctv5/"
-      }
-    ],
-    "id": 46,
-    "title": "体育"
-  },
-  {
     "icon": "icon-movie",
     "sites": [
       {
@@ -295,34 +204,6 @@
         "id": 279,
         "title": "哔哩哔哩",
         "url": "https://www.bilibili.com/"
-      },
-      {
-        "thumb": "https://v.qq.com/favicon.ico",
-        "description": "腾讯视频",
-        "id": 281,
-        "title": "腾讯视频",
-        "url": "https://v.qq.com/"
-      },
-      {
-        "thumb": "https://www.iqiyi.com/favicon.ico",
-        "description": "爱奇艺",
-        "id": 300,
-        "title": "爱奇艺",
-        "url": "https://www.iqiyi.com/"
-      },
-      {
-        "thumb": "https://img.alicdn.com/tfs/TB1nDB8XuL2gK0jSZFmXXc7iXXa-48-48.ico",
-        "description": "优酷",
-        "id": 301,
-        "title": "优酷",
-        "url": "https://www.youku.com/"
-      },
-      {
-        "thumb": "https://www.mgtv.com/favicon.ico",
-        "description": "芒果TV",
-        "id": 354,
-        "title": "芒果TV",
-        "url": "https://www.mgtv.com/"
       }
     ],
     "id": 60,
@@ -348,90 +229,6 @@
     ],
     "id": 48,
     "title": "直播平台"
-  },
-  {
-    "icon": "icon-movie1",
-    "sites": [
-      {
-        "thumb": "https://movie.douban.com/favicon.ico",
-        "description": "豆瓣电影",
-        "id": 272,
-        "title": "豆瓣电影",
-        "url": "https://movie.douban.com/"
-      },
-      {
-        "thumb": "http://www.pdoro.com/wp-content/uploads/2019/10/19d938570915af-32x32.png",
-        "description": "PRORO影视",
-        "id": 273,
-        "title": "PRORO影视",
-        "url": "http://www.pdoro.com/"
-      },
-      {
-        "thumb": "https://www.yinfans.me/wp-content/themes/Loos2/images/favicon.ico",
-        "description": "音范丝",
-        "id": 274,
-        "title": "音范丝",
-        "url": "https://www.yinfans.me/"
-      },
-      {
-        "thumb": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.51yuansu.com%2Fpic3%2Fcover%2F01%2F69%2F55%2F595f8a72cf2c3_610.jpg&refer=http%3A%2F%2Fpic.51yuansu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1642434146&t=f12367309fab80319ae2e352a928c014",
-        "description": "MINI4K迷客电影",
-        "id": 275,
-        "title": "MINI4K迷客电影",
-        "url": "https://www.mini4k.com/"
-      },
-      {
-        "thumb": "https://torrindex.net/images/tpb.jpg",
-        "description": "海盗湾",
-        "id": 310,
-        "title": "海盗湾",
-        "url": "https://thepiratebay.org/index.html"
-      },
-      {
-        "thumb": "https://btbtt18.com/favicon.ico",
-        "description": "BT之家",
-        "id": 328,
-        "title": "BT之家",
-        "url": "https://btbtt18.com/"
-      },
-      {
-        "thumb": "https://www.hao4k.cn/favicon.ico",
-        "description": "Hao4K",
-        "id": 338,
-        "title": "Hao4K",
-        "url": "https://www.hao4k.cn/"
-      },
-      {
-        "thumb": "https://www.bugutv.net/wp-content/uploads/2021/09/favicon.jpg",
-        "description": "布谷TV",
-        "id": 339,
-        "title": "布谷TV",
-        "url": "https://www.bugutv.net/"
-      }
-    ],
-    "id": 41,
-    "title": "电影"
-  },
-  {
-    "icon": "icon-subtitles",
-    "sites": [
-      {
-        "thumb": "https://img.subhd.la/favicon-32x32.png",
-        "description": "SubHD字幕下载",
-        "id": 333,
-        "title": "SubHD",
-        "url": "https://subhd.tv/"
-      },
-      {
-        "thumb": "http://zmk.pw/images/v2/favicon.png",
-        "description": "字幕库",
-        "id": 276,
-        "title": "字幕库",
-        "url": "http://zmk.pw/"
-      }
-    ],
-    "id": 58,
-    "title": "字幕"
   },
   {
     "icon": "icon-musicfill",
