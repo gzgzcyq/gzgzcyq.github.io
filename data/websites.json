@@ -189,48 +189,6 @@
     "title": "死宅男"
   },
   {
-    "icon": "icon-movie",
-    "sites": [
-      {
-        "thumb": "https://www.acfun.cn/favicon.ico",
-        "description": "AcFun",
-        "id": 279,
-        "title": "AcFun 画质比B站好",
-        "url": "https://www.acfun.cn/"
-      },
-      {
-        "thumb": "https://www.bilibili.com/favicon.ico",
-        "description": "哔哩哔哩",
-        "id": 279,
-        "title": "哔哩哔哩",
-        "url": "https://www.bilibili.com/"
-      }
-    ],
-    "id": 60,
-    "title": "影视爱优腾"
-  },
-  {
-    "icon": "icon-live",
-    "sites": [
-      {
-        "thumb": "https://www.douyu.com/favicon.ico",
-        "description": "斗鱼直播",
-        "id": 302,
-        "title": "斗鱼直播",
-        "url": "https://www.douyu.com/directory/all"
-      },
-      {
-        "thumb": "https://www.huya.com/favicon.ico",
-        "description": "虎牙直播",
-        "id": 303,
-        "title": "虎牙直播",
-        "url": "https://www.huya.com/l"
-      }
-    ],
-    "id": 48,
-    "title": "直播平台"
-  },
-  {
     "icon": "icon-musicfill",
     "sites": [
       {
@@ -239,6 +197,13 @@
         "id": 320,
         "title": "Spotify",
         "url": "https://open.spotify.com/"
+      },
+      {
+        "thumb": "https://music.youtube.com/img/favicon_144.png",
+        "description": "YouTube Music",
+        "id": 347,
+        "title": "YouTube Music",
+        "url": "https://music.youtube.com/"
       },
       {
         "thumb": "https://y.qq.com/favicon.ico",
@@ -250,75 +215,5 @@
     ],
     "id": 54,
     "title": "音乐"
-  },
-  {
-    "icon": "icon-news",
-    "sites": [
-      {
-        "thumb": "https://weibo.com/favicon.ico",
-        "description": "微博",
-        "id": 280,
-        "title": "微博",
-        "url": "https://weibo.com/"
-      },
-      {
-        "thumb": "https://static.zhihu.com/heifetz/favicon.ico",
-        "description": "知乎热榜",
-        "id": 289,
-        "title": "知乎热榜",
-        "url": "https://www.zhihu.com"
-      },
-      {
-        "thumb": "http://fanfou.com/favicon.ico",
-        "description": "饭否",
-        "id": 304,
-        "title": "饭否",
-        "url": "http://fanfou.com/browse"
-      }
-    ],
-    "id": 43,
-    "title": "头条热点"
-  },
-  {
-    "icon": "icon-youtube",
-    "sites": [
-      {
-        "thumb": "https://www.youtube.com/s/desktop/310f846f/img/favicon_32x32.png",
-        "description": "YouTube",
-        "id": 282,
-        "title": "YouTube",
-        "url": "https://www.youtube.com/"
-      },
-      {
-        "thumb": "https://abs.twimg.com/favicons/twitter.2.ico",
-        "description": "Twitter",
-        "id": 283,
-        "title": "Twitter",
-        "url": "https://twitter.com/"
-      },
-      {
-        "thumb": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico",
-        "description": "Facebook",
-        "id": 284,
-        "title": "Facebook",
-        "url": "https://www.facebook.com/"
-      },
-      {
-        "thumb": "https://web.telegram.org/favicon.ico",
-        "description": "Telegram",
-        "id": 319,
-        "title": "Telegram",
-        "url": "https://web.telegram.org/"
-      },
-      {
-        "thumb": "https://res.cdn.office.net/owamail/20221111004.15/resources/images/favicons/mail-seen.ico",
-        "description": "Outlook",
-        "id": 322,
-        "title": "Outlook",
-        "url": "https://outlook.live.com/mail/0"
-      }
-    ],
-    "id": 44,
-    "title": "国外社交"
   }
 ]
