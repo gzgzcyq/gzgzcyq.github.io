@@ -3,7 +3,7 @@
     "icon": "icon-cloud",
     "sites": [
       {
-        "thumb": "https://gw.alicdn.com/imgextra/i3/O1CN01aj9rdD1GS0E8io11t_!!6000000000620-73-tps-16-16.ico",
+        "thumb": "https://img.alicdn.com/imgextra/i1/O1CN01JDQCi21Dc8EfbRwvF_!!6000000000236-73-tps-64-64.ico",
         "description": "阿里云盘",
         "id": 306,
         "title": "阿里云盘",
@@ -31,7 +31,7 @@
         "url": "https://mail.qq.com/"
       },
       {
-        "thumb": "https://docs.gtimg.com/desktop/favicon2.ico",
+        "thumb": "https://docs.gtimg.com/home/img/footer/logo-footer-78ea61.svg",
         "description": "腾讯文档",
         "id": 322,
         "title": "腾讯文档",
@@ -101,7 +101,7 @@
         "url": "https://www.taobao.com/"
       },
       {
-        "thumb": "https://www.jd.com/favicon.ico",
+        "thumb": "https://img10.360buyimg.com/img/jfs/t1/192028/25/33459/5661/63fc2af2F1f6ae1b6/d0e4fdc2f126cbf5.png",
         "description": "京东",
         "id": 287,
         "title": "京东",
@@ -122,7 +122,7 @@
         "url": "https://www.amazon.cn/"
       },
       {
-        "thumb": "https://www.smzdm.com/favicon.ico",
+        "thumb": "https://www.smzdm.com/favicon.ico?v=201906300250",
         "description": "什么值得买",
         "id": 343,
         "title": "什么值得买",
@@ -150,14 +150,14 @@
         "url": "https://www.dongchedi.com"
       },
       {
-        "thumb": "https://www.autohome.com.cn/favicon.ico",
+        "thumb": "https://www.autohome.com.cn/images/ipad_logo_auto.png",
         "description": "汽车之家",
         "id": 346,
         "title": "汽车之家",
         "url": "https://www.autohome.com.cn"
       },
       {
-        "thumb": "https://i.rtings.com/assets/favicon/current/favicon-16x16-142bbe3886f094e5d63fbded01a123f6cf7001a99b366eb4f416501c8ea5062c.png",
+        "thumb": "https://www.rtings.com/apple-touch-icon-120x120.png",
         "description": "RTINGS",
         "id": 350,
         "title": "RTINGS",
@@ -171,7 +171,7 @@
         "url": "https://www.right.com.cn/forum/"
       },
       {
-        "thumb": "https://www.zol.com.cn/favicon.ico",
+        "thumb": "https://icon.zol-img.com.cn/favicon/180.png",
         "description": "中关村",
         "id": 345,
         "title": "中关村",
@@ -192,7 +192,7 @@
     "icon": "icon-musicfill",
     "sites": [
       {
-        "thumb": "https://open.spotify.com/favicon.ico",
+        "thumb": "https://open.spotifycdn.com/cdn/images/icons/Spotify_128.45316d66.png",
         "description": "Spotify",
         "id": 320,
         "title": "Spotify",
@@ -204,6 +204,13 @@
         "id": 347,
         "title": "YouTube Music",
         "url": "https://music.youtube.com/"
+      },
+      {
+        "thumb": "https://music.apple.com/assets/app-icons/music-icon_128.png",
+        "description": "Apple Music",
+        "id": 348,
+        "title": "Apple Music",
+        "url": "https://music.apple.com/us/browse"
       },
       {
         "thumb": "https://y.qq.com/favicon.ico",
