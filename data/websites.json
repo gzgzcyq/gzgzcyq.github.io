@@ -143,13 +143,6 @@
     "icon": "icon-car",
     "sites": [
       {
-        "thumb": "https://www.dongchedi.com/favicon.ico",
-        "description": "懂车帝",
-        "id": 400,
-        "title": "懂车帝",
-        "url": "https://www.dongchedi.com"
-      },
-      {
         "thumb": "https://www.autohome.com.cn/images/ipad_logo_auto.png",
         "description": "汽车之家",
         "id": 346,
@@ -183,6 +176,13 @@
         "id": 353,
         "title": "IT之家",
         "url": "https://www.ithome.com/blog/"
+      },
+      {
+        "thumb": "https://cdn-static.sspai.com/favicon/sspai.ico",
+        "description": "少数派",
+        "id": 353,
+        "title": "少数派",
+        "url": "https://sspai.com/"
       }
     ],
     "id": 60,
