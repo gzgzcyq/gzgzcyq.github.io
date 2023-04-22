@@ -85,6 +85,13 @@
         "id": 352,
         "title": "天气预报",
         "url": "https://weather.cma.cn/"
+      },
+      {
+        "thumb": "https://wannianli.tianqi.com/favicon.ico",
+        "description": "日历",
+        "id": 352,
+        "title": "日历",
+        "url": "https://wannianli.tianqi.com/"
       }
     ],
     "id": 52,
