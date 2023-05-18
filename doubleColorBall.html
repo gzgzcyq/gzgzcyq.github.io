@@ -7,8 +7,11 @@
 </head>
 
 <body>
+<a href="http://www.cwl.gov.cn/fcpz/yxjs/ssq" target="_blank">福彩双色球</a>
+<br>
+
 <script>
-    // 在a~b范围内生成随机数的方法
+    // 方法:在a~b范围内生成随机数的方法
     function random(min, max) {
         return Math.floor((Math.random() * (max - min + 1) + min));
     }
@@ -27,8 +30,7 @@
         return arr;
     }
 
-    // 一共生成5组号
-    // 双色球 6个红球(一组选择中数字不重复) 1~33 1个篮球 1~16
+    // 双色球 6个红球(一组选择中数字不重复) 1~33 1个蓝球 1~16
     for (let i = 0; i < 5; i++) {
         let nums = randomNums(6, 1, 33);
         // 排序,需要自己实现排序(类似于java的lambda的形式)
@@ -53,6 +55,49 @@
         document.write('+' + blue + '<br>');
     }
 
+</script>
+<br><br><br>
+
+<!-- 体彩 -->
+<a href="https://www.lottery.gov.cn/dlt/index.html" target="_blank">体彩大乐透</a>
+<br>
+<script>
+    // 超级大乐透，5个蓝球，2个黄球
+    for (let i = 0; i < 5; i++) {
+        let nums = randomNums(5, 1, 35);
+        // 排序,需要自己实现排序(类似于java的lambda的形式)
+        nums.sort((a, b) => {
+            return a - b
+        });
+
+        for (let i = 0; i < 5; i++) {
+            let num = nums[i];
+            if (num < 10) {
+                num = '0' + num;
+            }
+            document.write(num);
+            if (i < 5) {
+                document.write(' ');
+            }
+        }
+        document.write('+');
+        // 后区
+        let blues = randomNums(2, 1, 12);
+        blues.sort((a, b) => {
+            return a - b
+        });
+        for (let i = 0; i < 2; i++) {
+            let blue = blues[i];
+            if (blue < 10) {
+                blue = '0' + blue;
+            }
+            document.write(blue);
+            if (i < 1) {
+                document.write(' ');
+            }
+        }
+        document.write('<br>');
+    }
 </script>
 </body>
 
