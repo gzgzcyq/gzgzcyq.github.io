@@ -59,13 +59,13 @@
                 <div class="col-lg-6 col-md-6">
                     <input accept="image/*" name="upimage" id="upload_file" type="file" value="上传图片">
                 </div>
-                <div class="col-lg-6 col-md-6" id="update_file_label">暂未上传图片</div>
+                <div class="col-lg-6 col-md-6" id="update_file_label">选择本地文件转换为base64</div>
             </div>
         </div>
 
         <div class="form-group">
             <label for="base64_output"></label>
-            <textarea class="form-control" placeholder="请先上传图片或者手动输入Base64编码"
+            <textarea class="form-control" placeholder="这里点击Ctrl+V将剪切板图片直接转换为base64"
                       rows="8" id="base64_output" name="base64_output"></textarea>
         </div>
         <div class="form-group">
@@ -93,6 +93,28 @@
     <h2>图片还原中。。。</h2>
 </div>
 <script>
+    document.getElementById('base64_output').addEventListener('paste', function (e) {
+        // 阻止粘贴
+        e.stopPropagation();
+        e.preventDefault();
+        // 获取剪贴板信息
+        var clipboardData = e.clipboardData || window.clipboardData;
+        var items = clipboardData.items;
+        for (var i = 0; i < items.length; i++) {
+            var item = items[i];
+            if (item.kind === 'file') {
+                var pasteFile = item.getAsFile();
+                var reader = new FileReader();
+                reader.onload = function (event) {
+                    // 将结果显示在<textarea>中
+                    document.getElementById('base64_output').value = event.target.result;
+                }
+                // 将文件读取为BASE64格式字符串
+                reader.readAsDataURL(pasteFile);
+            }
+        }
+    });
+
     window.onload = function () {
         if (typeof (FileReader) === 'undefined') {
             alert("抱歉，你的浏览器不支持 FileReader，请使用现代浏览器操作！");
