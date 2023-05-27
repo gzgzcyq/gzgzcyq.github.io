@@ -43,6 +43,13 @@
         "id": 322,
         "title": "腾讯文档",
         "url": "https://docs.qq.com/desktop"
+      },
+      {
+        "thumb": "https://p1-hera.feishucdn.com/tos-cn-i-jbbdkfciu3/1ec7129d900e442d8501d810efdaa369~tplv-jbbdkfciu3-image:0:0.image",
+        "description": "飞书",
+        "id": 322,
+        "title": "飞书",
+        "url": "https://www.feishu.cn/"
       }
     ],
     "id": 55,
@@ -64,6 +71,13 @@
         "id": 326,
         "title": "高德地图",
         "url": "https://www.amap.com/"
+      },
+      {
+        "thumb": "https://maps.gstatic.com/mapfiles/maps_lite/pwa/icons/maps15_bnuw3a_round_192x192.png",
+        "description": "Google Maps",
+        "id": 326,
+        "title": "Google Maps",
+        "url": "https://www.google.com/maps"
       }
     ],
     "id": 51,
