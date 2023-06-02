@@ -246,6 +246,13 @@
         "id": 347,
         "title": "QQ音乐",
         "url": "https://y.qq.com/"
+      },
+      {
+        "thumb": "http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg",
+        "description": "网易云音乐",
+        "id": 347,
+        "title": "网易云音乐",
+        "url": "https://music.163.com/#/my/"
       }
     ],
     "id": 54,
