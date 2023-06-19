@@ -36,7 +36,8 @@
         "id": 322,
         "title": "QQ邮箱",
         "url": "https://mail.qq.com/"
-      },{
+      },
+      {
         "thumb": "https://mail.163.com/apple-touch-icon-120x120.png",
         "description": "163邮箱",
         "id": 322,
@@ -184,18 +185,18 @@
         "url": "https://www.autohome.com.cn"
       },
       {
-        "thumb": "https://www.rtings.com/apple-touch-icon-120x120.png",
-        "description": "RTINGS",
-        "id": 350,
-        "title": "RTINGS",
-        "url": "https://www.rtings.com"
-      },
-      {
         "thumb": "https://www.right.com.cn/favicon.ico",
         "description": "恩山无线论坛",
         "id": 353,
         "title": "恩山无线论坛",
         "url": "https://www.right.com.cn/forum/"
+      },
+      {
+        "thumb": "https://www.acwifi.net/favicon.ico",
+        "description": "acwifi",
+        "id": 353,
+        "title": "acwifi",
+        "url": "https://www.acwifi.net/"
       },
       {
         "thumb": "https://icon.zol-img.com.cn/favicon/180.png",
@@ -217,6 +218,13 @@
         "id": 353,
         "title": "少数派",
         "url": "https://sspai.com/"
+      },
+      {
+        "thumb": "https://www.rtings.com/apple-touch-icon-120x120.png",
+        "description": "RTINGS",
+        "id": 350,
+        "title": "RTINGS",
+        "url": "https://www.rtings.com"
       }
     ],
     "id": 60,
